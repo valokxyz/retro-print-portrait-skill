@@ -22,7 +22,13 @@ All people shown below are fictional and AI-generated specifically for demonstra
 |---|---|---|
 | ![Example 1](examples/comparisons/example-01.jpg) | ![Example 2](examples/comparisons/example-02.jpg) | ![Example 3](examples/comparisons/example-03.jpg) |
 
-The three results share one visual family while changing the dominant background and layout according to the original clothing, lighting, and scene.
+### Candid group-photo validation
+
+![Four-person candid group validation](examples/comparisons/example-04.jpg)
+
+Example 4 stress-tests the skill on an intentionally ordinary four-person smartphone snapshot with uneven depth, overlapping bodies, different expressions, a mug, a peace sign, table clutter, and mixed household lighting. The result preserves all four people, their left-to-right/front-to-back relationships, gestures, props, casual crop, and domestic scene anchors while applying the same retro print family.
+
+The results share one visual family while changing the dominant background and layout according to the original clothing, lighting, and scene.
 
 ## Install
 
@@ -79,4 +85,3 @@ Portraits may contain sensitive personal information. Only process photos you ar
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
