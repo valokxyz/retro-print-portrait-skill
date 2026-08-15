@@ -1,0 +1,4 @@
+interface:
+  display_name: "复古印刷肖像"
+  short_description: "将真实人物照片转为复古杂志孔版印刷肖像海报，并严格保留身份与姿态"
+  default_prompt: "Use $retro-print-portrait to transform the attached portrait into a 1:1 retro print poster while preserving identity, expression, pose, and the established color family."
